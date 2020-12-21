@@ -32,12 +32,12 @@ r+ = write and read mode
 
 ##Gambar
 
-!(01.png)[/gambar/01.png]
+![01.png](/gambar/01.png)
 
 file text yang di buat 
 
-!(02.png)[/gambar/02.png]
+![02.png](/gambar/02.png)
 
 hasil output dari read
 
-!(03.png)[/gambar/03.png]
+![03.png](/gambar/03.png)
