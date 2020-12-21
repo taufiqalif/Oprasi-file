@@ -1,7 +1,10 @@
 # Oprasi File
 w = write mode / mode menulis dan menghapus file lama, jika file tidak ada maka akan dibuatkan otomatis
+
 r = read mode only / hanya bisa baca
+
 a = appeding mode / menambahkan data di akhir baris
+
 r+ = write and read mode
 
 ## Membuat file text
