@@ -1,10 +1,10 @@
-#Oprasi File
+# Oprasi File
 w = write mode / mode menulis dan menghapus file lama, jika file tidak ada maka akan dibuatkan otomatis
 r = read mode only / hanya bisa baca
 a = appeding mode / menambahkan data di akhir baris
 r+ = write and read mode
 
-##Membuat file text
+## Membuat file text
 
 	file = open("data.txt",'w')
 	file.write("ini adalah data text yang dibuat")
@@ -14,7 +14,7 @@ r+ = write and read mode
 
 	file.close()
 
-##Membuat file text
+## Membuat file text
 
 	file2 = open("data.txt",'r')
 
@@ -23,14 +23,14 @@ r+ = write and read mode
 
 	file2.close()
 
-##Appending mode
+## Appending mode
 
 	file3 = open("data.txt",'a')
 	file3.write("\nbaris ini menggunakan mode append")
 
 	file3.close()
 
-##Gambar
+## Gambar
 
 ![01.png](/gambar/01.png)
 
